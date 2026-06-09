@@ -1,4 +1,4 @@
-# TireVision API 🔍
+# API 🔍
 
 REST API for automatic tire crack detection and segmentation using Computer Vision.
 
